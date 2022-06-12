@@ -1,0 +1,20 @@
+// 나열된 수에서 최솟값과 최댓값을 구하라
+/* Tip. 메모리 활용이 중요, 하나의 변수를 min or max로 가정하고 비교 과정에서 업데이트 진행 */package ch1;
+
+public class max_min {
+
+	public static void main(String[] args) {
+		
+		int[] numbers = {10, 55, 23, 2, 79, 101,16,82,30,45};
+		
+		int min = numbers[0];
+		int max = numbers[0];
+		int minPos = 0;
+		int maxPos = 0;
+		
+		
+
+	}
+
+}
+A

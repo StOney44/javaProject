@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/Users/ena/Desktop/Ena/Code/java/fastCam/.metadata/.plugins/org.eclipse.jdt.core
+275235709.index
+1865797976.index
+3787740244.index
+1916991752.index
+2433561582.index
+134505044.index

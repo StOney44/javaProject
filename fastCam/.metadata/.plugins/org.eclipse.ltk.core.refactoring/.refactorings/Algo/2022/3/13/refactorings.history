@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ch1.max_min.java&apos; to &apos;MinMaxProblem.java&apos;&#x0A;- Original project: &apos;Algo&apos;&#x0A;- Original element: &apos;ch1.max_min.java&apos;&#x0A;- Renamed element: &apos;ch1.MinMaxProblem.java&apos;" description="Rename compilation unit &apos;max_min.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ch1{max_min.java" name="MinMaxProblem.java" references="false" stamp="1647778473383" version="1.0"/>
+</session>
